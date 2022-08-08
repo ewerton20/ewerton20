@@ -1,0 +1,4 @@
+- 👋 oi eu sou @ewerton20
+- 📧 meu e-mail é g.ewerton@escola.pr.gov.br
+- 🌱 Estou interessado em fazer html5 e css3
+- :+1: Estou aprendedendo a programar
